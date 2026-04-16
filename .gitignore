@@ -12,3 +12,6 @@ Thumbs.db
 # Secrets — never commit API keys
 .env
 secrets.properties
+
+# Claude Code internal directory
+.claude/
