@@ -1,0 +1,14 @@
+# Maven build output
+target/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets — never commit API keys
+.env
+secrets.properties
